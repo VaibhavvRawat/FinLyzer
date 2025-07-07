@@ -2,6 +2,7 @@
 
 ## Overview
 Interactive Streamlit application for comprehensive stock analysis supporting both Indian (NSE/BSE) and US markets.
+ https://finlyzer.streamlit.app/
 
 ## Features
 - Real-time stock data from Yahoo Finance (no API keys required)
